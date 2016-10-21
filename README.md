@@ -1,7 +1,5 @@
 # Requirements for Android_Math_Quiz Project
 
-# Android_Math_Quiz
-
 --> Task in Hand:
 To implement a native Android app for addition, subtraction, and multiplication of single digit numbers.
 
